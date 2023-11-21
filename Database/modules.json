@@ -1,0 +1,65 @@
+[
+  {
+    "_id": "M101",
+    "name": "Python Fundamentals",
+    "description": "Introduction to Python programming and its fundamental concepts.",
+    "week": "0",
+    "course": "RS102"
+  },
+  {
+    "_id": "M102",
+    "name": "Web Development Basics",
+    "description": "Exploring the basics of web development and HTML/CSS.",
+    "week": "1",
+    "course": "RS101"
+  },
+  {
+    "_id": "M103",
+    "name": "Algorithms and Data Structures",
+    "description": "Study of algorithms, data structures, and their applications.",
+    "week": "0",
+    "course": "RS103"
+  },
+  {
+    "_id": "M201",
+    "name": "Python Programming for Scientists",
+    "description": "Using Python for scientific and data analysis tasks.",
+    "week": "1",
+    "course": "RS102"
+  },
+  {
+    "_id": "M202",
+    "name": "Web Development with Python",
+    "description": "Building web applications using Python and web frameworks.",
+    "week": "2",
+    "course": "RS102"
+  },
+  {
+    "_id": "M203",
+    "name": "Advanced Algorithms",
+    "description": "In-depth study of advanced algorithms and problem-solving techniques.",
+    "week": "1",
+    "course": "RS103"
+  },
+  {
+    "_id": "M301",
+    "name": "Software Design Patterns",
+    "description": "Exploring design patterns and best practices in software development.",
+    "week": "2",
+    "course": "RS101"
+  },
+  {
+    "_id": "M302",
+    "name": "Data Structures for Algorithms",
+    "description": "Understanding data structures used in algorithm design.",
+    "week": "2",
+    "course": "RS103"
+  },
+  {
+    "_id": "M303",
+    "name": "Dynamic Programming Techniques",
+    "description": "Study of dynamic programming and its applications in solving problems.",
+    "week": "3",
+    "course": "RS103"
+  }
+]

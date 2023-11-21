@@ -1,0 +1,25 @@
+[
+  {
+    "_id": "RS101",
+    "name": "WEB DEVELOPMENT",
+    "number": "CS5610",
+    "startDate": "2023-01-10",
+    "endDate": "2023-05-15",
+    "description": "Learn to create websites."
+  },
+  {
+    "_id": "RS102",
+    "name": "PYTHON",
+    "number": "CS1730",
+    "startDate": "2023-01-10",
+    "endDate": "2023-05-15",
+    "description": "Learn about python language."
+  },
+  {
+    "_id": "RS103",
+    "name": "ALGORITHMS",
+    "number": "CS5800",
+    "startDate": "2023-01-10",
+    "endDate": "2023-05-15",
+    "description": "Data structures and algorithms."
+  }]

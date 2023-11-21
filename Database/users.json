@@ -1,0 +1,92 @@
+[
+  {
+    "_id": "1",
+    "username": "rajesh_kumar",
+    "password": "rajesh123",
+    "firstName": "Rajesh",
+    "lastName": "Kumar",
+    "email": "rajesh@gmail.com",
+    "dob": "1990-04-15",
+    "role": "STUDENT"
+  },
+  {
+    "_id": "2",
+    "username": "sandeep_sharma",
+    "password": "sandeep123",
+    "firstName": "Sandeep",
+    "lastName": "Sharma",
+    "email": "sandeep@gmail.com",
+    "dob": "1992-08-21",
+    "role": "STUDENT"
+  },
+  {
+    "_id": "3",
+    "username": "neha_patel",
+    "password": "neha123",
+    "firstName": "Neha",
+    "lastName": "Patel",
+    "email": "neha@gmail.com",
+    "dob": "1995-03-11",
+    "role": "STUDENT"
+  },
+  {
+    "_id": "4",
+    "username": "amit_singh",
+    "password": "amit123",
+    "firstName": "Amit",
+    "lastName": "Singh",
+    "email": "amit@gmail.com",
+    "dob": "1988-11-28",
+    "role": "STUDENT"
+  },
+  {
+    "_id": "5",
+    "username": "priya_sharma",
+    "password": "priya123",
+    "firstName": "Priya",
+    "lastName": "Sharma",
+    "email": "priya@gmail.com",
+    "dob": "1991-06-25",
+    "role": "STUDENT"
+  },
+  {
+    "_id": "6",
+    "username": "mohit_gupta",
+    "password": "mohit123",
+    "firstName": "Mohit",
+    "lastName": "Gupta",
+    "email": "mohit@gmail.com",
+    "dob": "1989-12-04",
+    "role": "STUDENT"
+  },
+  {
+    "_id": "7",
+    "username": "anita_joshi",
+    "password": "anita123",
+    "firstName": "Anita",
+    "lastName": "Joshi",
+    "email": "anita@gmail.com",
+    "dob": "1978-09-12",
+    "role": "FACULTY"
+  },
+  {
+    "_id": "8",
+    "username": "ravi_kapoor",
+    "password": "ravi123",
+    "firstName": "Ravi",
+    "lastName": "Kapoor",
+    "email": "ravi@gmail.com",
+    "dob": "1975-07-01",
+    "role": "FACULTY"
+  },
+  {
+    "_id": "9",
+    "username": "deepika_shah",
+    "password": "deepika123",
+    "firstName": "Deepika",
+    "lastName": "Shah",
+    "email": "deepika@gmail.com",
+    "dob": "1982-02-15",
+    "role": "FACULTY"
+  }
+]

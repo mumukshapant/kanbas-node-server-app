@@ -1,0 +1,150 @@
+[
+    {
+      "_id": "1",
+      "student": "1",
+      "assignment": "A101",
+      "grade": "90%"
+    },
+    {
+      "_id": "2",
+      "student": "2",
+      "assignment": "A101",
+      "grade": "91%"
+    },
+    {
+      "_id": "3",
+      "student": "3",
+      "assignment": "A101",
+      "grade": "92%"
+    },
+    {
+      "_id": "4",
+      "student": "1",
+      "assignment": "A102",
+      "grade": "92%"
+    },
+    {
+      "_id": "5",
+      "student": "2",
+      "assignment": "A102",
+      "grade": "91%"
+    },
+    {
+      "_id": "6",
+      "student": "3",
+      "assignment": "A102",
+      "grade": "90%"
+    },
+  
+    {
+      "_id": "7",
+      "student": "4",
+      "assignment": "A201",
+      "grade": "80%"
+    },
+    {
+      "_id": "8",
+      "student": "125",
+      "assignment": "A201",
+      "grade": "81%"
+    },
+    {
+      "_id": "9",
+      "student": "126",
+      "assignment": "A201",
+      "grade": "82%"
+    },
+  
+    {
+      "_id": "10",
+      "student": "124",
+      "assignment": "A202",
+      "grade": "82%"
+    },
+    {
+      "_id": "11",
+      "student": "125",
+      "assignment": "A202",
+      "grade": "81%"
+    },
+    {
+      "_id": "12",
+      "student": "126",
+      "assignment": "A202",
+      "grade": "80%"
+    }
+    ,{
+      "_id": "1",
+      "student": "1",
+      "assignment": "A301",
+      "grade": "90%"
+    },
+    {
+      "_id": "2",
+      "student": "2",
+      "assignment": "A301",
+      "grade": "91%"
+    },
+    {
+      "_id": "3",
+      "student": "3",
+      "assignment": "A301",
+      "grade": "92%"
+    },
+    {
+      "_id": "4",
+      "student": "1",
+      "assignment": "A301",
+      "grade": "92%"
+    },
+    {
+      "_id": "5",
+      "student": "2",
+      "assignment": "A102",
+      "grade": "91%"
+    },
+    {
+      "_id": "6",
+      "student": "3",
+      "assignment": "A102",
+      "grade": "90%"
+    },
+  
+    {
+      "_id": "7",
+      "student": "5",
+      "assignment": "A201",
+      "grade": "80%"
+    },
+    {
+      "_id": "8",
+      "student": "125",
+      "assignment": "A302",
+      "grade": "81%"
+    },
+    {
+      "_id": "9",
+      "student": "2",
+      "assignment": "A302",
+      "grade": "82%"
+    },
+  
+    {
+      "_id": "10",
+      "student": "7",
+      "assignment": "A301",
+      "grade": "82%"
+    },
+    {
+      "_id": "11",
+      "student": "6",
+      "assignment": "A301",
+      "grade": "81%"
+    },
+    {
+      "_id": "12",
+      "student": "6",
+      "assignment": "A302",
+      "grade": "80%"
+    }
+  ]

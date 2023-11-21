@@ -1,0 +1,11 @@
+[
+    { "_id": "A101", "title": "HTML Assignment", "course": "RS101", "duedate": "October 10, 2023" },
+    { "_id": "A102", "title": "CSS Assignment", "course": "RS101", "duedate": "November 01, 2023"  },
+    { "_id": "A103", "title": "Javascript Assignment", "course": "RS101", "duedate": "September 14, 2023"  },
+    { "_id": "A201", "title": "Python data types Quiz", "course": "RS102", "duedate": "November 28, 2023"  },
+    { "_id": "A202", "title": "Python socket programming", "course": "RS102", "duedate": "December 17, 2023"  },
+    { "_id": "A203", "title": "functions", "course": "RS102", "duedate": "September 30, 2023"  },
+    { "_id": "A301", "title": "Big-o notation", "course": "RS103", "duedate": "October 4, 2023"  },
+    { "_id": "A302", "title": "Searching and sorting", "course": "RS103", "duedate": "August 21, 2023"  },
+    { "_id": "A303", "title": "Midterm Exam", "course": "RS103", "duedate": "September 13, 2024"  }
+  ]
