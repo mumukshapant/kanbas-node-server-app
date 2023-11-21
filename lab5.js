@@ -1,4 +1,3 @@
-import axios from "axios";
 function Lab5(app)
 {
     //1 ----- Hello
