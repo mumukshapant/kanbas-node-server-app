@@ -7,7 +7,7 @@ import cors from "cors";
 import mongoose from "mongoose";
 import UserRoutes from "./users/routes.js";
 
-const CONNECTION_STRING = process.env.DB_CONNECTION_STRING || 'mongodb://127.0.0.1:27017/kanbas-cs5610-fa23'
+const CONNECTION_STRING = process.env.DB_CONNECTION_STRING || 'mongodb://127.0.0.1:27017/kanbas'
 mongoose.connect(CONNECTION_STRING);
 
 import ModuleRoutes from "./modules/routes.js";
@@ -19,7 +19,7 @@ const app = express();
 app.use(
     cors({
       credentials: true,
-      origin: process.env.FRONTEND_URL
+      origin: 'https://assignment6-kanbas-app--silver-marzipan-31986e.netlify.app'
     })
   );
   
