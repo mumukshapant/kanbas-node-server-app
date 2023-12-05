@@ -1,4 +1,3 @@
-// const express = require("express");
 import session from "express-session";
 import express from "express";
 import HelloRoutes from "./hello.js";
