@@ -18,7 +18,7 @@ const app = express();
 app.use(
     cors({
       credentials: true,
-      origin: 'https://assignment6-kanbas-app--silver-marzipan-31986e.netlify.app'
+      origin: 'https://assignment6-kanbas-app--voluble-tulumba-dd64d5.netlify.app'
     })
   );
   
